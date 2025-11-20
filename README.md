@@ -1,6 +1,6 @@
 📊 Superstore Sales Analysis & Forecasting – Power BI Dashboard
-📝 Project Overview
 
+📝 Project Overview
 This Power BI project focuses on analyzing supermarket sales performance and generating short-term (15-day) sales forecasts using time-series techniques.
 The dashboard provides a comprehensive view of key metrics, trends, customer behavior, and actionable insights to support data-driven decision-making.
 
