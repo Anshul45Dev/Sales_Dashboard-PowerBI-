@@ -67,6 +67,7 @@ This project helped me strengthen:
 “My dashboard not only visualizes historical performance but also supports decision-making by forecasting upcoming sales. I focused on intuitive UI, effective DAX use, and ensuring that stakeholders can interact with data at multiple levels.”
 
 📷 Dashboard Preview
-<img width="1313" height="763" alt="1" src="https://github.com/user-attachments/assets/523eba23-c627-4246-a22e-7ed4326fcbde" />
+
+<img width="1312" height="758" alt="1" src="https://github.com/user-attachments/assets/523eba23-c627-4246-a22e-7ed4326fcbde" />
 <img width="1312" height="758" alt="2" src="https://github.com/user-attachments/assets/f62fa88f-bea9-4638-883c-42ded4d39d26" />
 
