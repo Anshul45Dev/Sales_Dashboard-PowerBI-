@@ -30,28 +30,28 @@ Power BI:
 - Dashboard design best practices
 
 📈 Key Insights from Dashboard
-🔹 Sales Performance
+- 🔹 Sales Performance
 - Total Sales: 1.6M
 - Profit: 175K
 - Total Quantity Sold: 22K
-🔹 Sales Breakdown
+- 🔹 Sales Breakdown
 - Top Categories: Office Supplies, Technology, Furniture
 - Top Sub-categories: Phones, Chairs, Binders
 - Top States: California, New York, Texas
-🔹 Customer Segments
+- 🔹 Customer Segments
 - Consumer (48%)
 - Corporate (33%)
 - Home Office (19%)
-🔹 Regional Contribution
+- 🔹 Regional Contribution
 - West (33%)
 - East (29%)
 - Central (22%)
 - South (16%)
-🔹 Payment Mode
+- 🔹 Payment Mode
 - COD (43%)
 - Online (35%)
 - Cards (22%)
-🔹 Forecasting
+- 🔹 Forecasting
 - 15-day sales forecast generated using time-series modeling
 - Clear forward-looking trends to support planning & inventory decisions
 
